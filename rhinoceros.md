@@ -1,0 +1,3 @@
+<h1>Rhinoceros</h1>
+<image src="https://files.worldwildlife.org/wwfcmsprod/images/White_Rhino/story_full_width/15g9slqvru_white_rhino_42993643.jpg" alt="rhinoceros">
+A rhinoceros (/raɪˈnɒsərəs/; from Ancient Greek ῥινόκερως (rhinókerōs) 'nose-horned'; from ῥίς (rhis) 'nose' and κέρας (kéras) 'horn';[1] pl.: rhinoceros or rhinoceroses), commonly abbreviated to rhino, is a member of any of the five extant species (or numerous extinct species) of odd-toed ungulates in the family Rhinocerotidae; it can also refer to a member of any of the extinct species of the superfamily Rhinocerotoidea. Two of the extant species are native to Africa, and three to South and Southeast Asia.
